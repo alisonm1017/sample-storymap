@@ -5,7 +5,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 
 ## Live links (replace with your own)
-- Leaflet Map https://alisonm1017.github.io/sample-storymap/#1
+- Leaflet Map https://alisonm1017.github.io/sample-storymap/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1qxxi-W5TLSxu-G6yNoVgoNYi5OhsODBn4Ftg1H_NxUs/edit#gid=0
 
 ## Create Your Own
